@@ -1,5 +1,5 @@
 # broadcasting-song-request-system
-A modern multi-station song request system for RadioBOSS, RadioDJ and AzuraCast.
+A modern multi-station song request system for RadioBOSS, RadioDJ.
 
 
 # Broadcasting Song Request System
@@ -35,5 +35,4 @@ Development has just started.
 - [ ] Song search
 - [ ] Request system
 - [ ] RadioBOSS connector
-- [ ] AzuraCast connector
 - [ ] RadioDJ connector
